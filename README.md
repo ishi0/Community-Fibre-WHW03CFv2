@@ -7,3 +7,6 @@ PuTTY. PuTTY is a free and open-source terminal emulator, serial console and net
 
 Files needed:
 OpenWRT firmware. The OpenWRT firmware which is in this repository is a working build of OpenWRT. For this project we are going to use the OpenWRT firmware so that we can SSH into the router. This build of OpenWRT works and can be substituted for the retail firmware if any more advanced users would like to use it over the retail Linksys firmware.
+
+Installation steps:
+The installation procedure can be found in the Wiki of this repo.
